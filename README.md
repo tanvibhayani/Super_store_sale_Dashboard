@@ -26,7 +26,12 @@ The goal is to help users understand business performance at a glance.
 
 
 ---
+## 🎥 Dashboard Walkthrough Video
 
+[![Watch the Video](https://streamable.com/quvc5x)
+
+ ---
+ 
 ## ⭐ Key Features
 
 - Interactive filters (Category, Region, Segment, Year)
