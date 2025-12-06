@@ -26,9 +26,11 @@ The goal is to help users understand business performance at a glance.
 
 
 ---
+
 ## 🎥 Dashboard Walkthrough Video
 
-[![Watch the Video](https://streamable.com/quvc5x)
+[![Watch the Video](https://raw.githubusercontent.com/tanvibhayani/Tanvi-bhayani/main/dashboard.png)](https://streamable.com/quvc5x)
+
 
  ---
  
