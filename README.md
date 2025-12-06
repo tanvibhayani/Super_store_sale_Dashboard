@@ -24,7 +24,7 @@ The goal is to help users understand business performance at a glance.
 (Add your screenshot here)
 
 Example:  
-`Tanvi-bhayani/dashboard.png`
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
