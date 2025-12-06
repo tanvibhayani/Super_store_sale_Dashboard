@@ -1,2 +1,47 @@
-# Super_store_sale_Dashboard
-A fully interactive and insightful Power BI dashboard built using the popular Superstore Sales dataset. This project helps analyze sales, profit, customer segments, regions, and category performance to support data-driven decision making.
+# 📊 Superstore Sales Dashboard – Power BI
+
+A fully interactive and insightful **Power BI Dashboard** built using the popular *Superstore Sales* dataset.  
+This project analyzes Sales, Profit, Category performance, Customer Segments, and Regional trends to support data-driven decision making.
+
+---
+
+## 🔍 Project Overview
+
+This dashboard provides clear insights into:
+
+- Total Sales, Profit & Quantity KPIs  
+- Category-wise & Sub-category-wise performance  
+- Region & State-wise Sales distribution  
+- Customer Segment analysis  
+- Monthly Sales & Profit trend  
+- Top & Bottom Products based on profit  
+
+The goal is to help users understand business performance at a glance.
+
+---
+
+## 🖼️ Dashboard Preview  
+(Add your screenshot here)
+
+Example:  
+`C:\resume\dashboard.png`
+
+---
+
+## ⭐ Key Features
+
+- Interactive filters (Category, Region, Segment, Year)
+- Clean & modern UI design  
+- Drill-down & drill-through enabled  
+- Dynamic visuals: Area Chart, Bar Chart, Map, Pie Chart, KPI Cards  
+- Data cleaned in Power Query  
+- Custom DAX measures for accurate analysis
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- **Power BI Desktop**  
+- **Power Query** (ETL)  
+- **DAX** for calculated measures  
+- Superstore Sales dataset  
