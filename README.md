@@ -24,7 +24,7 @@ The goal is to help users understand business performance at a glance.
 (Add your screenshot here)
 
 Example:  
-`C:\resume\dashboard.png`
+`Tanvi-bhayani/dashboard.png`
 
 ---
 
