@@ -20,11 +20,10 @@ The goal is to help users understand business performance at a glance.
 
 ---
 
-## 🖼️ Dashboard Preview  
-(Add your screenshot here)
+## 🖼️ Dashboard Preview
 
-Example:  
-![Dashboard Screenshot](/Tanvi-bhayani/blob/main/dashboard.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/tanvibhayani/Tanvi-bhayani/main/dashboard.png)
+
 
 ---
 
